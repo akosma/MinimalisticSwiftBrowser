@@ -6,11 +6,11 @@ on the [PracticalSwift.com][original] blog, and lately also updated by
 [David Owens II][makefile] to compile the application on the command
 line.
 
-# Requirements
+## Requirements
 
 This code has been updated and tested with Xcode 6.3 and Swift 1.2.
 
-# Usage
+## Usage
 
 1. Launch `make` on the command line to build the application. The
    result of the compilation is in the `build` folder.
@@ -18,7 +18,7 @@ This code has been updated and tested with Xcode 6.3 and Swift 1.2.
    `./browser.swift` in the `src` directory; both commands will launch
    the application directly.
 
-# License
+## License
 
 This code is released with a BSD license; see the LICENSE file for
 details. The original code snippets belong to their respective authors.
